@@ -119,10 +119,10 @@
 			"com.mysql.jdbc.Driver"
 		</property>
 		<property name="URL">
-			"jdbc:mysql://localhost:3306/sastruts"
+			"jdbc:mysql://192.168.11.7:3306/tweet"
 		</property>
-		<property name="user">"root"</property>
-		<property name="password">"kokoromusubi"</property>
+		<property name="user">"rbenv"</property>
+		<property name="password">"makerubyfile"</property>
 	</component>
 
 

@@ -31,7 +31,7 @@ public class SyainAction {
 
     @Execute(validator = false)
     public String index() {
-//        syainItems = syainService.findAll();
+        syainItems = syainService.findAll();
 
         return "list.jsp";
     }

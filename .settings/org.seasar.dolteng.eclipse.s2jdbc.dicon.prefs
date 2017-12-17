@@ -1,0 +1,7 @@
+Charset=UTF-8
+ConnectionName=s2jdbc.dicon
+ConnectionUrl=jdbc\:mysql\://localhost\:3306/sastruts
+DriverClass=com.mysql.jdbc.Driver
+Pass=kokoromusubi
+User=root
+eclipse.preferences.version=1

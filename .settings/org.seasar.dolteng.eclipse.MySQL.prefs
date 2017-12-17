@@ -1,0 +1,8 @@
+Charset=MS932
+ConnectionName=MySQL
+ConnectionUrl=jdbc\:mysql\://localhost\:3306/sastruts
+DriverClass=com.mysql.fabric.jdbc.FabricMySQLDriver
+DriverPath=/C\:/Program%20Files%20(x86)/MySQL/Connector.J%205.1/mysql-connector-java-5.1.39-bin.jar|
+Pass=kokoromusubi
+User=root
+eclipse.preferences.version=1

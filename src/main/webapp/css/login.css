@@ -1,0 +1,26 @@
+				body {
+				background-color: #eeeeee; 
+				font-family: Meiryo;
+				border: 1px solid #bbbbbb;
+				}
+				
+				div.title {
+				background: #CCFF66;
+				width: 500px;
+				padding: 10px;
+				text-align: center;
+				border: 3px solid #cccccc;
+				margin: 30px auto;
+				}
+				div.form {
+				background: #CCFF66;
+				width: 500px;
+				padding: 10px;
+				text-align: center;
+				border: 3px solid #cccccc;
+				margin: 70px auto;
+				line-height: 400%;
+				}
+.spectrumHeader {
+transition:1s ease;
+}

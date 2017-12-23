@@ -29,8 +29,6 @@ public class TweetAction {
     @Execute(validator = false)
     public String index() {
         tweetItems = tweetService.findAll();
-        System.out.println(tweetItems.size());
-
         return "list.jsp";
     }
 
